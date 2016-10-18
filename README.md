@@ -1,4 +1,5 @@
-# Ghostwriter
+# Ghostwriter - my fork
+This is a fork of: https://github.com/jbub/ghostwriter it's heavily customized to support https://www.wlangiewicz.com
 
 Enhanced port of the Ghost "[ghostwriter](https://github.com/roryg/ghostwriter)" theme to the [Hugo](https://gohugo.io) site generator.
 
@@ -9,7 +10,7 @@ Inside the folder of your Hugo site run:
 ```bash
 $ mkdir themes
 $ cd themes
-$ git clone https://github.com/jbub/ghostwriter
+$ git clone https://github.com/wlk/ghostwriter
 ```
 
 For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
